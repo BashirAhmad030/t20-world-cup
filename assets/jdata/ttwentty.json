@@ -1,0 +1,290 @@
+{
+  "Schedule": [
+    {
+      "date": "1st Round      21-Oct-2023",
+      "teamOne": "SRI",
+      "teamTwo": "IRE",
+      "flagOne": "assets/flags/sri.jpg",
+      "flagTwo": "assets/flags/ir.jpg",
+      "group": "A",
+      "venue": "Karachi Cricket Stadium",
+      "time": " "
+    },
+    {
+      "date": "1st Round       23-Oct-2023",
+      "teamOne": "AFG",
+      "teamTwo": "AUS",
+      "flagOne": "assets/flags/afg.jpg",
+      "flagTwo": "assets/flags/aus.jpg",
+      "group": "A",
+      "venue": "Lahore Cricket Stadium",
+      "time": " "
+    },
+    {
+      "date": "1st Round       25-Oct-2023",
+      "teamOne": "IND",
+      "teamTwo": "Pak",
+      "flagOne": "assets/flags/ind.jpg",
+      "flagTwo": "assets/flags/pak.jpg",
+      "group": "A",
+      "venue": "Multan Cricket Stadium",
+      "time": " "
+    },
+
+    {
+      "date": "2nd Round       28-Oct-2023",
+      "teamOne": "AF",
+      "teamTwo": "ENG",
+      "flagOne": "assets/flags/af.jpg",
+      "flagTwo": "assets/flags/eng.jpg",
+      "group": "B",
+      "venue": "Pandii Cricket Stadium",
+      "time": " "
+    },
+
+    {
+      "date": "2nd Round       29-Oct-2023",
+      "teamOne": "WES",
+      "teamTwo": "USA",
+      "flagOne": "assets/flags/wes.jpg",
+      "flagTwo": "assets/flags/usa.jpg",
+      "group": "B",
+      "venue": "Peshawar Cricket Stadium",
+      "time": " "
+    },
+
+    {
+      "date": "2nd Round       01-NOV-2023",
+      "teamOne": "BNG",
+      "teamTwo": "UAE",
+      "flagOne": "assets/flags/bang.jpg",
+      "flagTwo": "assets/flags/uae.jpg",
+      "group": "B",
+      "venue": "Quetta Cricket Stadium",
+      "time": " "
+    }
+  ],
+  "Venues": [
+    {
+      "country": "Pakistan",
+      "city":   "Karachi",
+      "stadium": "Karachi International Cricket Stadium",
+      "image":   "assets/venues/karachi.jpg"
+    },
+    {
+      "country": "Pakistan",
+      "city":   "Lahore",
+      "stadium": "Lahore International Cricket Stadium",
+      "image":   "assets/venues/lahore.jpg"
+    },
+    {
+      "country": "Pakistan",
+      "city":   "Multan",
+      "stadium": "Multan International Cricket Stadium",
+      "image":   "assets/venues/multan.jpg"
+    },
+    {
+      "country": "Pakistan",
+      "city":   "Islamabad Pandi",
+      "stadium": "Pandai International Cricket Stadium",
+      "image":   "assets/venues/pandii.jpg"
+    },
+
+    {
+      "country": "Pakistan",
+      "city":   "Peshawar",
+      "stadium": "Peshawar International Cricket Stadium",
+      "image":   "assets/venues/aus.jpg"
+    },
+
+    {
+      "country": "Pakistan",
+      "city":   "Quetta",
+      "stadium": "Quetta International Cricket Stadium",
+      "image":   "assets/venues/bang.jpg"
+    },
+
+    {
+      "country": "DUBAI",
+      "city":   "Dubai",
+      "stadium": "Dubai International Cricket Stadium",
+      "image":   "assets/venues/dubi.jpg"
+    },
+
+    {
+      "country": "Pakistan",
+      "city":   "Hadrabaad ",
+      "stadium": "Hadrabaad International Cricket Stadium",
+      "image":   "assets/venues/hadarabad.jpg"
+    },
+
+    {
+      "country": "Pakistan",
+      "city":   "Faisal Abad",
+      "stadium": "Faisal Abad International Cricket Stadium",
+      "image":   "assets/venues/lak.jpg"
+    },
+
+    {
+      "country": "DUBAI",
+      "city":   "Sharjah",
+      "stadium": "Sharjah International Cricket Stadium",
+      "image":   "assets/venues/mcg.jpg"
+    },
+
+    {
+      "country": "DUBAI",
+      "city":   "Dubai",
+      "stadium": "Dubai International Cricket Stadium",
+      "image":   "assets/venues/Ahmad.jpg"
+    }
+
+],
+  "History": [
+  {
+    "winner": "India",
+    "runnerUp": "Pakistan",
+    "host":  "South Afriqa",
+    "winnerFlag": "assets/flags/ind.jpg",
+    "runnerFlag": "assets/flags/pak.jpg",
+    "year" : "2007"
+  },
+    {
+      "winner": "Pakistan",
+      "runnerUp": "SriLanka",
+      "host":  "England",
+      "winnerFlag": "assets/flags/pak.jpg",
+      "runnerFlag": "assets/flags/sri.jpg",
+      "year" : "2009"
+
+
+    },
+
+    {
+      "winner": "England",
+      "runnerUp": "Australia",
+      "host":  "Australia",
+      "winnerFlag": "assets/flags/eng.jpg",
+      "runnerFlag": "assets/flags/aus.jpg",
+      "year" : "2010"
+
+
+    },
+
+    {
+      "winner": "West Indies",
+      "runnerUp": "Sri Lanka",
+      "host":  "Sri Lanka",
+      "winnerFlag": "assets/flags/wes.jpg",
+      "runnerFlag": "assets/flags/sri.jpg",
+      "year" : "2012"
+
+
+    },
+
+    {
+      "winner": "Pakistan",
+      "runnerUp": "India",
+      "host":  "India",
+      "winnerFlag": "assets/flags/pak.jpg",
+      "runnerFlag": "assets/flags/ind.jpg",
+      "year" : "2016"
+
+
+    },
+
+    {
+      "winner": "Sri Lanka",
+      "runnerUp": "India",
+      "host":  "Australia",
+      "winnerFlag": "assets/flags/sri.jpg",
+      "runnerFlag": "assets/flags/ind.jpg",
+      "year" : "2018"
+
+
+    },
+
+    {
+      "winner": "Pakistan",
+      "runnerUp": "India",
+      "host":  "India",
+      "winnerFlag": "assets/flags/pak.jpg",
+      "runnerFlag": "assets/flags/ind.jpg",
+      "year" : "2020"
+
+
+    }
+  ],
+  "Teams": [
+    {
+      "fullName": "Pakistan",
+      "shortNAme": "PAK" ,
+      "flag": "assets/flags/pak.jpg"
+    },
+
+    {
+      "fullName": "Africa",
+      "shortNAme": "AF" ,
+      "flag": "assets/flags/af.jpg"
+    },
+
+    {
+      "fullName": "Afghanistan",
+      "shortNAme": "AFG" ,
+      "flag": "assets/flags/afg.jpg"
+    },
+
+    {
+      "fullName": "Australia",
+      "shortNAme": "AUS" ,
+      "flag": "assets/flags/aus.jpg"
+    },
+
+    {
+      "fullName": "Bangladesh",
+      "shortNAme": "BANG" ,
+      "flag": "assets/flags/bang.jpg"
+    },
+
+    {
+      "fullName": "England",
+      "shortNAme": "ENG" ,
+      "flag": "assets/flags/eng.jpg"
+    },
+
+    {
+      "fullName": "India",
+      "shortNAme": "IND" ,
+      "flag": "assets/flags/ind.jpg"
+    },
+
+    {
+      "fullName": "Ire Land",
+      "shortNAme": "IRL" ,
+      "flag": "assets/flags/ir.jpg"
+    },
+
+    {
+      "fullName": "Nether Land",
+      "shortNAme": "NLD" ,
+      "flag": "assets/flags/neth.jpg"
+    },
+
+    {
+      "fullName": "Sari Lanka",
+      "shortNAme": "SRI" ,
+      "flag": "assets/flags/sri.jpg"
+    },
+
+    {
+      "fullName": "West Indies",
+      "shortNAme": "WES" ,
+      "flag": "assets/flags/wes.jpg"
+    }
+  ]
+
+
+}
+
+
+
